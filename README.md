@@ -12,6 +12,7 @@ Este é um aplicativo simples, multiplataforma (Web, Android e iOS), construído
 ## 📸 Telas
 
 ### Web
+> [Acesse aqui](https://jbdev-barcode.web.app/#/)
 | Tela Principal | Popup de Impressão | PDF Gerado |
 | :---: | :---: | :---: |
 | ![Web 1](image/README/web1.png) | ![Web 2](image/README/web2.png) | ![Web 3](image/README/web3.png) |
